@@ -42,7 +42,7 @@ def download_data(urls, save_path="data/raw"):
 
 
 
-urls = generate_url("20230401","20250429")
+urls = generate_url("20220601","20230301")
 download_data(urls)
        
     
